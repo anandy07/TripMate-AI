@@ -10,3 +10,6 @@ python-dotenv
 tavily-python 
 requests 
 streamlit
+langgraph
+langgraph-checkpoint-postgres
+psycopg2-binary
